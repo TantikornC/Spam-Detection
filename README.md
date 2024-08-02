@@ -1,6 +1,6 @@
 # 🧑‍💼 Tantikorn Chatavaraha - Data Science Portfolio
 
-Welcome to my data science portfolio! Here, I showcase my projectห and expertise in data science. This repository includes detailed descriptions, methodologies, and results of my work when I was an intern at Botnoi Consulting.
+Welcome to my data science portfolio! Here, I showcase my projects and expertise in data science. This repository includes detailed descriptions, methodologies, and results of my work when I was an intern at Botnoi Consulting.
 
 # Chatbot Spam Detection
 
@@ -17,7 +17,7 @@ The primary objective of this project is to develop a robust spam detection syst
 
 ## Key Components
 
-1. **Data Collection**: The dataset consists of raw data that includes only the chatbot's data, user's texts, and response texts.
+1. **Data Collection**: The dataset consists of raw data that includes only the chatbot's data, the user's texts, and the chatbot's response texts.
 2. **Data Preprocessing**:
    - Cleaning and tokenizing text data.
    - Feature extraction using methods like TF-IDF.
